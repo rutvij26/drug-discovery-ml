@@ -2,4 +2,4 @@
 
 > INFO: All code directories execute with docker compose, make sure **docker** is installed in local machine before running
 
--   [CNN-RDKIT-KERAS](./cnn-rdkit-keras/README.md)
+-   [CNN-RDKIT-KERAS](./cnn-rdkit-keras)
