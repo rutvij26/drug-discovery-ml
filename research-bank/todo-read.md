@@ -1,4 +1,4 @@
-# Material to go through
+# Reading List
 
 ## Courses
 
