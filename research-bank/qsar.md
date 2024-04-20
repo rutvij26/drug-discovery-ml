@@ -1,4 +1,4 @@
-# QSAR ( Quantitative Structure Activity Relationship)
+# QSAR ( Quantitative Structure Activity Relationship )
 
 ## Molecules
 
@@ -14,7 +14,7 @@ Molecules have Molecule Descritors ( Features )
 | 1   | 0   | 1   | 1   | 0   | 1   | 1   | 0   | 1   | 1   | 1   | 1   | 0   | 1   | 1   | 1     |
 | 1   | 0   | 0   | 1   | 1   | 1   | 1   | 1   | 0   | 1   | 1   | 1   | 1   | 0   | 1   | 0     |
 
--   Each feature is representated from `__( x1 - 16 )__`
+-   Each feature is representated from `( x1 - 16 )`
 -   `Y` represents the biological activity that we want to predict
 
 ## Machine Learning Model
